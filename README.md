@@ -14,6 +14,9 @@ mi_Frame.pack(fill=”valor”)	      ‘x’, ‘y’, ‘both’, ‘none’
 mi_Frame.pack(expand=”valor”)   	  0, 1, “True”, “False”
 mi_Frame.pack(side=”valor”)	      ‘left’, ‘right’, ‘top’, ‘bottom’
 
+para tener en claro los widgets que se van a usar ingrese al siguiente link:
+https://guia-tkinter.readthedocs.io/es/develop/chapters/6-widgets/6.1-Intro.html
+
 Todos los ejercicios que se explican a continuacion importan la libreria tkinter
 
 ejercicio1:
